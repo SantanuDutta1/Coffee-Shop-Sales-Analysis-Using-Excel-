@@ -1,7 +1,10 @@
+<h1 align="center">  <img src="Logo/Coffe logo.jpg" width="50" height="50"/> </a>   Coffee Shop Retail Sales Analysis using Excel <a  target="_blank"> <img src="Logo/excel-avancado-1.jpg"  width="50" height="50"/> </a> </h1>
 
-# Coffee Shop Retail Sales Analysis
 
 This project analyzes retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
+<p align="center">
+  <img width="750" height="500" src="WhatsApp Image 2024-06-30 at 14.45.45_ef611eb4.jpg">
+</p>
 
 ## Objectives
 
@@ -76,7 +79,7 @@ The analysis provides insights into:
 This project aims to provide a comprehensive understanding of the retail sales dynamics at the Coffee Shop, helping in making informed business decisions to enhance overall performance.
 
 ## Project Link
-[Link](https://github.com/SantanuDutta1/Pizza_Sales_Analysis_Using_SQL/blob/main/Pizza%20Sales%20SQL%20project/PIZZA%20SALES%20ANALYSIS%20QUERY.sql) 
+[Link]([https://github.com/SantanuDutta1/Pizza_Sales_Analysis_Using_SQL/blob/main/Pizza%20Sales%20SQL%20project/PIZZA%20SALES%20ANALYSIS%20QUERY.sql](https://github.com/SantanuDutta1/Coffee-Shop-Sales-Analysis-Using-Excel-/blob/main/Coffe%20shope%20Analysis%20using%20Excel.xlsx)) 
 
 ## Author
 Santanu Dutta  
