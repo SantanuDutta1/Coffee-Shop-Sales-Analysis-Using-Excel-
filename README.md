@@ -42,6 +42,7 @@ The main objectives of this project are to:
 ## Project Details
 
 - **Author:** Santanu Dutta
+
 - **Tools Used:** Microsoft Excel
 
 ## Data Analysis
@@ -65,12 +66,19 @@ The analysis provides insights into:
 - Category-specific trends to tailor marketing and product offerings.
 
 ## Dashboard
+<p align="center">
+  <img width="650" height="350" src="Dashbord of Coffe sales analysis.png">
+</p>
 
-![Dashboard](path/to/your/dashboard/image.png)
-
-*Replace `path/to/your/dashboard/image.png` with the actual path to your dashboard image file in the repository.*
 
 ## Conclusion
 
 This project aims to provide a comprehensive understanding of the retail sales dynamics at the Coffee Shop, helping in making informed business decisions to enhance overall performance.
 
+## Project Link
+[Link](https://github.com/SantanuDutta1/Pizza_Sales_Analysis_Using_SQL/blob/main/Pizza%20Sales%20SQL%20project/PIZZA%20SALES%20ANALYSIS%20QUERY.sql) 
+
+## Author
+Santanu Dutta  
+[LinkedIn Profile](www.linkedin.com/in/santanu-dutta-b7048a255)  
+[GitHub Profile](https://github.com/SantanuDutta1)  
