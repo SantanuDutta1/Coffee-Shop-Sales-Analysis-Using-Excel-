@@ -79,7 +79,7 @@ The analysis provides insights into:
 This project aims to provide a comprehensive understanding of the retail sales dynamics at the Coffee Shop, helping in making informed business decisions to enhance overall performance.
 
 ## Project Link
-[Link]([https://github.com/SantanuDutta1/Pizza_Sales_Analysis_Using_SQL/blob/main/Pizza%20Sales%20SQL%20project/PIZZA%20SALES%20ANALYSIS%20QUERY.sql](https://github.com/SantanuDutta1/Coffee-Shop-Sales-Analysis-Using-Excel-/blob/main/Coffe%20shope%20Analysis%20using%20Excel.xlsx)) 
+[Link](https://github.com/SantanuDutta1/Coffee-Shop-Sales-Analysis-Using-Excel-/blob/main/Coffe%20shope%20Analysis%20using%20Excel.xlsx)
 
 ## Author
 Santanu Dutta  
